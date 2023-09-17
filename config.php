@@ -5,6 +5,6 @@ define("PASS_DB", '01682998982');
 define("DB", 'book');
 
 define ('ROOT', dirname(__FILE__));
-define('BASE_URL', 'dangnguyenvuong.vercel.app');
+define('BASE_URL', 'http://dangnguyenvuong.vercel.app/');
 define('UPLOAD_IMG', ROOT .'/images/book');
 
